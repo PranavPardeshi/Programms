@@ -1,0 +1,3 @@
+from Marvellous import *
+
+fun();
