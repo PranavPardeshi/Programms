@@ -198,7 +198,7 @@ class DoublyLinearLinkedlist
 {
     public static void main(String arr[])
     {
-        cout<<"----------Doubly Linear linked list using Java----------\n";
+        System.out.println("----------Doubly Linear linked list using Java----------");
 
         DoublyLL obj = new DoublyLL();
         obj.InsertFirst(21);
